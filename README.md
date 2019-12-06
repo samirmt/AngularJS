@@ -1,5 +1,5 @@
 # Petshop
-A little project development with angular, consist in a petshop system, where buy products and list them in the shopping cart.
+A little project development with angular, consists in a petshop system, where buy products and list them in the shopping cart.
 for the backend we used the Mockoon, the configuration file is in the folder src/app/mockoon.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
